@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BasicReb0rn"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\CMake\;CMake Files\Libs\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BasicReb0rn">
+				<Option output="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/bin/BasicReb0rn.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Libs/ASGE/include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 BasicReb0rn"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BasicReb0rn/fast">
+				<Option output="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/bin/BasicReb0rn.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Libs/ASGE/include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 BasicReb0rn/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BasicReb0rn+GameData">
+				<Option working_dir="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 BasicReb0rn+GameData"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Source/Item.cpp">
+			<Option target="BasicReb0rn"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Source/Item.h">
+			<Option target="BasicReb0rn"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Source/Location.cpp">
+			<Option target="BasicReb0rn"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Source/Location.h">
+			<Option target="BasicReb0rn"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Source/MyGame.cpp">
+			<Option target="BasicReb0rn"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Source/MyGame.h">
+			<Option target="BasicReb0rn"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Source/Player.cpp">
+			<Option target="BasicReb0rn"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Source/Player.h">
+			<Option target="BasicReb0rn"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/main.cpp">
+			<Option target="BasicReb0rn"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/CMake/itch.io.cmake">
+			<Option virtualFolder="CMake Files\CMake\"/>
+		</Unit>
+		<Unit filename="F:/Year 2/LLP/basic-reb0rn-mikeratcliffe97_master/Libs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Libs\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

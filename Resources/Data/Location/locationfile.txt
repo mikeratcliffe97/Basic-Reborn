@@ -1,0 +1,33 @@
+Landing Pad
+Airlock
+Corridor 1
+Vault
+Armoury
+Armoury Access Corridor
+Corridor 2
+Observation Deck
+Equipment Store
+Corridor 3
+Medbay 1
+Quarantine
+Turret
+Communication Centre
+Corridor 4
+Medbay 2
+Power Plant
+Engineering Deck
+Command Centre
+Cell Room
+Engine Deck
+Corridor 5
+Dormitory 2
+Common Room
+Kitchen
+Canteen
+Dormitory 1
+Locker Room
+Greenhouse
+Dry Store
+Gym
+Showers
+Space
